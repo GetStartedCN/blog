@@ -8,3 +8,5 @@ tags: docker k8s react frontend python flask tools skills books deploy FATE Fede
 
 
 ### [花两年时间面试一个人](https://www.cnblogs.com/zwblog/articles/5322423.html)
+
+### [宝玉的博客](https://baoyu.io/blog)
